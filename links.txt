@@ -1,0 +1,20 @@
+https://pyserial.readthedocs.io/en/latest/shortintro.html
+
+Cannot create serial bluetooth connection
+https://bbs.archlinux.org/viewtopic.php?id=178011
+
+Minimalistic access to OBD2 data with an ELM327 compatible adapter
+https://github.com/huirad/rpi_obd2
+
+OBD-II adapter (ELM327 commands)
+https://python-obd.readthedocs.io/en/latest/Command%20Tables/
+
+Reading and writing CAN messages through ELM327
+https://electronics.stackexchange.com/questions/94637/reading-and-writing-can-messages-through-elm327
+
+ELM327 AT Commands
+https://www.sparkfun.com/datasheets/Widgets/ELM327_AT_Commands.pdf
+
+How to monitor CAN BUS data with cheap ELM327
+https://www.csmagics.com/single-post/2013/07/24/This-is-the-title-of-your-first-image-post
+
